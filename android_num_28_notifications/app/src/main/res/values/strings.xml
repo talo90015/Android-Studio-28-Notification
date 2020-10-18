@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android_num_28_notifications</string>
+    <string name="Hw28_title">Notification 練習</string>
+    <string name="Hw28_NotificationMsg">Click</string>
+</resources>
